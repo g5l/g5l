@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>find me here: </p>
+
 <ul>
   <li>
     <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
