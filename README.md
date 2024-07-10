@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+#### I'm an experienced software developer with 7 years of industry experience, specializing in front-end and full-stack development. Proficient in a wide range of technologies, including Angular, Vue, React, GraphQL, Ruby on Rails, PHP, Node.js, JavaScript, HTML, CSS, AWS, SQL, and Neo4j.
 
-<p>find me here: </p>
-
+- 🔭 I’m currently open to work
+- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
+<br/>
 <ul>
   <li>
     <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
@@ -17,10 +19,10 @@
 <!--
 **g5l/g5l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
