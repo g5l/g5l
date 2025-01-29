@@ -1,7 +1,6 @@
 ### Hi there! 👋
 #### I'm an experienced software developer with 7 years of industry experience, specializing in front-end and full-stack development. Proficient in a wide range of technologies, including Angular, Vue, React, GraphQL, Ruby on Rails, PHP, Node.js, JavaScript, HTML, CSS, AWS, SQL, and Neo4j.
 
-- 🔭 I’m currently open to work
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
 <br/>
 <ul>
